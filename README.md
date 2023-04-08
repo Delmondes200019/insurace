@@ -7,7 +7,7 @@ Também é possível garantir que, caso venhamos a faltar nossos familires e dep
 
 ## Tipos de Seguro
 
-Existem vários tipos de seguros, cada um assegura algum tipo de coisa. O Seguro de vida, por exemplo, normalmente, assegura que o beneficário, indicado pelo segurado,
+Existem vários tipos de seguros, cada um assegura algum tipo de coisa. O Seguro de vida, por exemplo, normalmente, assegura que o beneficiário, indicado pelo segurado,
 receba um quantia em dinheiro, caso ele venha a faltar. Geralmente, esse tipo de seguro é contrato por pessoas que têm esposa(o) e filho(s) que dependem do capital
 do segurado.
 
