@@ -13,7 +13,7 @@ do segurado.
 
 O Seguro por incapacidade, geralmente, é contratado por pessoas que desejam assegurar que caso elas venham a sofrer algum tipo de acidente que tire sua capacidade de exercer seu trabalho, recebam uma quantia em dinheiro no período em que estiver incapacitado.
 
-Dependendo da Seguradora, pode ser possível adicionar algumas coberturas adicionais, como por exemplo, reparos elétricos, hidráulicos e furtos. Algumas, também oferecem serviços de reparos domésticos.
+Dependendo da Seguradora, pode ser possível contratar algumas coberturas adicionais, como por exemplo, reparos elétricos, hidráulicos e furtos. Algumas, também oferecem serviços de reparos domésticos.
 
 ## Como Contratar um Seguro ?
 
