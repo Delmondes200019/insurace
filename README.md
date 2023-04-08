@@ -11,7 +11,7 @@ Existem vários tipos de seguros, cada um assegura algum tipo de coisa. O Seguro
 receba um quantia em dinheiro, caso ele venha a faltar. Geralmente, esse tipo de seguro é contrato por pessoas que têm esposa(o) e filho(s) que dependem do capital
 do segurado.
 
-O Seguro por incapacidade, geralmente, é contrato por pessoas que desejam assegurar que caso elas venham a sofrer algum tipo de acidente que tire sua capacidade de exercer
+O Seguro por incapacidade, geralmente, é contratado por pessoas que desejam assegurar que caso elas venham a sofrer algum tipo de acidente que tire sua capacidade de exercer
 seu trabalho, recebam uma quantia em dinheiro no período em que estiver incapacitado.
 
 ## Como Contratar um Seguro ?
